@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PdfPageRotationExample", "PdfPageRotationExample\PdfPageRotationExample.csproj", "{413774DB-E806-438E-807F-4BEF4C7A03E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{413774DB-E806-438E-807F-4BEF4C7A03E4}.Debug|x86.ActiveCfg = Debug|x86
+		{413774DB-E806-438E-807F-4BEF4C7A03E4}.Debug|x86.Build.0 = Debug|x86
+		{413774DB-E806-438E-807F-4BEF4C7A03E4}.Release|x86.ActiveCfg = Release|x86
+		{413774DB-E806-438E-807F-4BEF4C7A03E4}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
