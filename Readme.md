@@ -7,7 +7,7 @@
 
 # PDF Document API - Rotate PDF Document Pages
 
-This example illustrates how to use the [PdfPageTreeObject.Rotate](https://docs.devexpress.com/OfficeFileAPI/DevExpress.Pdf.PdfPageTreeObject.Rotate) property to rotate PDF pages to 90 degrees counterclockwise.
+This example illustrates how to use the [PdfPageTreeObject.Rotate](https://docs.devexpress.com/OfficeFileAPI/DevExpress.Pdf.PdfPageTreeObject.Rotate) property to rotate all PDF pages to 90 degrees counterclockwise.
 
 > **Note**:
 > The Universal Subscription or an additional Office File API Subscription is required to use this example in production code. Please refer to the [DevExpress Subscription](https://www.devexpress.com/Subscriptions/) page for pricing information.
