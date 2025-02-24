@@ -1,15 +1,23 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35728.132 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PdfPageRotationExample", "PdfPageRotationExample\PdfPageRotationExample.vbproj", "{413774DB-E806-438E-807F-4BEF4C7A03E4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
 		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{413774DB-E806-438E-807F-4BEF4C7A03E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{413774DB-E806-438E-807F-4BEF4C7A03E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{413774DB-E806-438E-807F-4BEF4C7A03E4}.Debug|x86.ActiveCfg = Debug|x86
 		{413774DB-E806-438E-807F-4BEF4C7A03E4}.Debug|x86.Build.0 = Debug|x86
+		{413774DB-E806-438E-807F-4BEF4C7A03E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{413774DB-E806-438E-807F-4BEF4C7A03E4}.Release|Any CPU.Build.0 = Release|Any CPU
 		{413774DB-E806-438E-807F-4BEF4C7A03E4}.Release|x86.ActiveCfg = Release|x86
 		{413774DB-E806-438E-807F-4BEF4C7A03E4}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
