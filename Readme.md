@@ -22,7 +22,7 @@ This example illustrates how to use the [PdfPageTreeObject.Rotate](https://docs.
 * [Rotate and Resize a Page](https://docs.devexpress.com/OfficeFileAPI/119762/pdf-document-api/document-manipulation/page-manipulation#rotate-and-resize-a-page)
 
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=pdf-document-api-rotate-pdf-pages&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=pdf-document-api-rotate-pdf-pages&~~~was_helpful=no)
 
